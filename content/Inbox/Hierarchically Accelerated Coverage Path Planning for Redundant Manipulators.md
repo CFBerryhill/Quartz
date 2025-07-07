@@ -4,12 +4,22 @@ Authors: Yeping Wang, Micheal Gleicher
 Date Published: 2025-02-26
 Date found: 2025-06-16
 Keywords: Coverage Path Planning, Manipulators, Gleicher, GTSP, TSP, IK, Inverse Kinematics
-Abstract: Many robotic applications, such as sanding, polishing, wiping and sensor scanning, require a manipulator to dexterously cover a surface using its end-effector. In this paper, we provide an efficient and effective coverage path planning approach that leverages a manipulator's redundancy and task tolerances to minimize costs in joint space. We formulate the problem as a Generalized Traveling Salesman Problem and hierarchically streamline the graph size. Our strategy is to identify guide paths that roughly cover the surface and accelerate the computation by solving a sequence of smaller problems. We demonstrate the effectiveness of our method through a simulation experiment and an illustrative demonstration using a physical robot.
 Link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kDkH9UkAAAAJ&sortby=pubdate&citation_for_view=kDkH9UkAAAAJ:TlpoogIpr_IC
 DOI: https://doi.org/10.48550/arXiv.2502.19591
 Read status: Read
 ---
-## Notes
+# Data
+## Abstract
+Many robotic applications, such as sanding, polishing, wiping and sensor scanning, require a manipulator to dexterously cover a surface using its end-effector. In this paper, we provide an efficient and effective coverage path planning approach that leverages a manipulator's redundancy and task tolerances to minimize costs in joint space. We formulate the problem as a Generalized Traveling Salesman Problem and hierarchically streamline the graph size. Our strategy is to identify guide paths that roughly cover the surface and accelerate the computation by solving a sequence of smaller problems. We demonstrate the effectiveness of our method through a simulation experiment and an illustrative demonstration using a physical robot.
+
+## Links
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kDkH9UkAAAAJ&sortby=pubdate&citation_for_view=kDkH9UkAAAAJ:TlpoogIpr_IC
+
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kDkH9UkAAAAJ&sortby=pubdate&citation_for_view=kDkH9UkAAAAJ:TlpoogIpr_IC
+## Status: Read
+
+
+# Notes
 
 - Introduction
 	- aim: solve coverage while minimizing cost in joint space

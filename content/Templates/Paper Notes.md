@@ -1,16 +1,23 @@
 ---
 Title: 
 Authors: 
-Abstract: 
 Date Published: 
 Date found: "{{date}}"
 Keywords: 
 Link: 
 DOI: 
-Read status:
+Read status: 
+Draft:
 ---
+# Data
+## Abstract
 
-## Notes
+## Links
+
+## Status: 
+
+
+# Notes
 
 ### Summary
 
