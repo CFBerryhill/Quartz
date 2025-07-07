@@ -21,7 +21,6 @@ In-Depth: Understood each word, each equation, every letter.
 - [[Evaluation of automatic guided vehicle systems]]
 - [[A novel scheduling method for automated guided vehicles in workshop environments]]
 
-
 ## Once Over
 - [[A novel robot co-worker system for paint factories without the need of existing robotic infrastructure]]
 - [[Augmented Reality Visualization of Autonomous Mobile Robot Change Detection in Uninstrumented Environments]]
