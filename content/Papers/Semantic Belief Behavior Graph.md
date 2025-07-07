@@ -5,7 +5,7 @@ Abstract: This paper addresses the problem of autonomous robotic inspection in c
 Date Published: 
 Date found: 2025-06-16
 Keywords: 
-Link: 
+Link: https://arxiv.org/abs/2401.17191
 DOI: 
 Read status: Abstract
 ---
