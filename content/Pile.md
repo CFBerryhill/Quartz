@@ -18,6 +18,7 @@ In-Depth: Understood each word, each equation, every letter.
 - [[TIREBOT - A collaborative robot for the tire workshop]]
 - [[Evaluation of automatic guided vehicle systems]]
 - [[A novel scheduling method for automated guided vehicles in workshop environments]]
+- [[Single-query Path Planning Using Sample-efficient Probability Informed Trees]]
 
 ## Once Over
 - [[A novel robot co-worker system for paint factories without the need of existing robotic infrastructure]]

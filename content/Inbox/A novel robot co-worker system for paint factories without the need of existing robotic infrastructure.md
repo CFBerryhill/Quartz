@@ -4,7 +4,7 @@ Authors: Rafael Rey, J. A. Cobano, Marco Corzetto, L. Merino, P. Alvito, F. Caba
 Abstract: This paper presents a human–robot co-working system to be applied to industrial tasks such as the production line of a paint factory. The aim is to optimize the picking task with respect to manual operation in a paint factory. The use of an agile autonomous robot co-worker reduces the time in the picking process of materials, and the reduction of the exposure time to raw materials of the worker improves the human safety. Moreover, the process supervision is also improved thanks to a better traceability of the whole process. The whole system consists of a manufacturing process management system, an autonomous navigation system, and a people detection and tracking system. The localization module does not require the installation of reflectors or visual markers for robot operation, significantly simplifying the system deployment in a factory. The robot is able to respond to changing environmental conditions such as people, moving forklifts or unmapped static obstacles like pallets or boxes. The system is not tied to specific manufacturing orders. It is fully integrated with the manufacturing process management system and it can process all possible orders as long as their components are placed into the warehouse. Real experiments to validate the system have been performed in a paint factory by a real holonomic platform and a worker. The results are promising from the evaluation of performance indicators such as exposure time of the worker to raw materials, automation of the process, robust and safe navigation, and the assessment of the end-user.
 Date Published: 2020-09-01
 Date found: 2025-06-16
-Keywords: 
+Keywords: Planning, Human-Robot Coworking, Robotics
 Link: https://www.sciencedirect.com/science/article/abs/pii/S0736584521000089?via%3Dihub
 DOI: 10.1016/J.RCIM.2021.102122
 Read status: Read
@@ -51,18 +51,12 @@ Paper focuses very heavily on technical details of the implementation - very lit
 ### Summary
 
 
-## References to add to the pile
-
-- Human-Robot Similarity and Willingness to Work with a Robotic Co-worker
-	- https://dl.acm.org/doi/abs/10.1145/3171221.3171281
-- Evaluation of automatic guided vehicle systems
-	- ancient, but probably worth a once over for building my own knowledge / context
-	- https://www.sciencedirect.com/science/article/pii/S073658450800029X
-- A novel scheduling method for automated guided vehicles in workshop environments
-	- https://journals.sagepub.com/doi/10.1177/1729881419844152
-- TIREBOT: A collaborative robot for the tire workshop
-	- https://www.sciencedirect.com/science/article/pii/S073658451830320X
-- A Visualization of Human Physical Risks in Manufacturing Processes Using BPMN
-	- https://link.springer.com/chapter/10.1007/978-3-319-74030-0_58
-- MIT: Probablistic Robotics (Ancient, but good for building my knowledge)
 ## Related Papers
+
+#### Referenced:
+
+- [[Human-Robot Similarity and Willingness to Work with a Robotic Co-worker]]
+- [[Evaluation of automatic guided vehicle systems]]
+- [[A novel scheduling method for automated guided vehicles in workshop environments]]
+- [[TIREBOT - A collaborative robot for the tire workshop]]
+- [[A Visualization of Human Physical Risks in Manufacturing Processes Using BPMN]]

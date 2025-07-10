@@ -3,7 +3,7 @@ Title: Advancing civil infrastructure assessment through robotic fleets
 Authors: Kay Smarsly, Kosmas Dragos
 Date Published: 2023-08-24
 Date found: 2025-06-16
-Keywords: civil infrastructure, robotics, robot fleet, swarm robotics, inspection, monitoring
+Keywords: Civil Infrastructure, Robotics, Robot Fleet, Swarm Robotics, Inspection, Monitoring
 Link: https://www.sciencedirect.com/science/article/pii/S2667345223000548
 DOI: https://doi.org/10.1016/j.iotcps.2023.10.003
 Read status: Abstract
