@@ -1,11 +1,10 @@
 Abstracts: read the abstract, looks interesting
 Once over: read through, took limited notes, focused on results and less on process
 Read: Once through, more dedicated note-taking, attempting to understand the broad strokes of each piece
-In-Depth: Understood each word, each equation, every letter.  
 ## Links to resolve
 
 - MIT: Probablistic Robotics (Ancient, but good for building my knowledge)
-
+- [[Semantic Belief Behavior Graph]] bottom
 ## Abstracts
 
 - [[Human-Robot Similarity and Willingness to Work with a Robotic Co-worker]]
@@ -24,10 +23,8 @@ In-Depth: Understood each word, each equation, every letter.
 - [[A novel robot co-worker system for paint factories without the need of existing robotic infrastructure]]
 - [[Augmented Reality Visualization of Autonomous Mobile Robot Change Detection in Uninstrumented Environments]]
 - [[Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System]]
-- [[Semantic Belief Behavior Graph]]
 - [[Graph‐based subterranean exploration path planning using aerial and legged robots]]
 - [[A Visualization of Human Physical Risks in Manufacturing Processes Using BPMN]]
 ## Read
 - [[Hierarchically Accelerated Coverage Path Planning for Redundant Manipulators]]
-
-## In Depth
+- [[Semantic Belief Behavior Graph]]
