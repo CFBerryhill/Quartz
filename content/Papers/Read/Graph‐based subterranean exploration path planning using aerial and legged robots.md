@@ -18,7 +18,7 @@ https://www.semanticscholar.org/paper/Graph%E2%80%90based-subterranean-explorati
 10.1002/rob.21993
 
 framework: file:///home/cbford/Downloads/JFR_GBPlanner.pdf
-## Status: Abstract
+## Status: Read
 
 # Notes
 

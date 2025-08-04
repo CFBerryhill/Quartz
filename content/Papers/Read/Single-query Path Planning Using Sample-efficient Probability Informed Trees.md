@@ -6,7 +6,7 @@ Date found: 2025-07-10
 Keywords: 
 Link: https://graphics.cs.wisc.edu/Papers/2021/RMG21/
 DOI: 
-Read status: Abstract
+Read status: Once Over
 Draft:
 ---
 # Data
@@ -19,7 +19,14 @@ https://graphics.cs.wisc.edu/Papers/2021/RMG21/
 
 # Notes
 
+- Introduction 
+	- dd
+- Related work
+	- Other planners like RRT, PRM, EST
+- Goal: Target searching through useful space by trimming search space unlikely to yield useful results because of collision / applying a probability factor to more likely space and a probability penalty to unlikely space
+- As planning occurs, do a mix of exploration/exploitation. When exploiting, push nodes that have been shown to be making progress towards the final goal. When exploring, push nodes that have gotten further from the root. 
+- Use a number of checkpoints (~50 seems good enough for the circumstances the authors attempted) between the goal and the start. (how do you actually determine these checkpoints?)
+- Faster on all benchmarks, on a variety of tasks and robot shapes. 
 ### Summary
-
 
 ## Related Papers
