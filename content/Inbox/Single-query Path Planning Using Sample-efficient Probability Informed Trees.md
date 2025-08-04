@@ -6,7 +6,7 @@ Date found: 2025-07-10
 Keywords: 
 Link: https://graphics.cs.wisc.edu/Papers/2021/RMG21/
 DOI: 
-Read status: 
+Read status: Abstract
 Draft:
 ---
 # Data
