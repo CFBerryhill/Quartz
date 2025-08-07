@@ -1,25 +1,33 @@
 ---
-Title: 
-Authors: 
+Title: "{{title}}"
+Authors: " {{authors}}"
 Date Published: 
 Date found: "{{date}}"
 Keywords: 
-Link: 
-DOI: 
+Link: "{{pdfZoteroLink}}"
+DOI: "{{DOI}}"
 Read status: 
 Draft:
 ---
+---
+year: {{date | format ("YYYY")}}
+authors: {{authors}}
+abstract: {{abstractNote}}
+
+--- 
+
+### {{title}}
 # Data
 ## Abstract
-
+{{abstractNote}}
 ## Links
 
+{{pdfZoteroLink}}
 ## Status: 
-
 
 # Notes
 
-### Summary
-
-
 ## Related Papers
+
+
+{% endif %}{% endfor -%}

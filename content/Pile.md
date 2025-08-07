@@ -17,7 +17,6 @@ Read: Once through, more dedicated note-taking, attempting to understand the bro
 - [[TIREBOT - A collaborative robot for the tire workshop]]
 - [[Evaluation of automatic guided vehicle systems]]
 - [[A novel scheduling method for automated guided vehicles in workshop environments]]
-- [[Single-query Path Planning Using Sample-efficient Probability Informed Trees]]
 - [[Robotic Monitoring of Habitats - The Natural Intelligence Approach]]
 
 ## Once Over
@@ -29,3 +28,5 @@ Read: Once through, more dedicated note-taking, attempting to understand the bro
 - [[Hierarchically Accelerated Coverage Path Planning for Redundant Manipulators]]
 - [[Semantic Belief Behavior Graph]]
 - [[Graph‐based subterranean exploration path planning using aerial and legged robots]]
+- [[Ranged IK]]
+- [[Single-query Path Planning Using Sample-efficient Probability Informed Trees]] 
