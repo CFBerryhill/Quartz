@@ -12,16 +12,12 @@ Draft:
 ---
 year: {{date | format ("YYYY")}}
 authors: {{authors}}
-abstract: {{abstractNote}}
 
 --- 
-
-### {{title}}
 # Data
 ## Abstract
 {{abstractNote}}
 ## Links
-
 {{pdfZoteroLink}}
 ## Status: 
 
@@ -29,5 +25,3 @@ abstract: {{abstractNote}}
 
 ## Related Papers
 
-
-{% endif %}{% endfor -%}

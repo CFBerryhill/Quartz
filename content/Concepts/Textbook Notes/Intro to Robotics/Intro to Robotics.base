@@ -1,0 +1,8 @@
+filters:
+  and:
+    - file.inFolder("Concepts/Textbook Notes/Intro to Robotics")
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: View

@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Concepts/Textbook Notes/Matrix Analysis")
+views:
+  - type: table
+    name: Table
