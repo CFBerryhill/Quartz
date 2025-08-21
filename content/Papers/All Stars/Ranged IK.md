@@ -44,7 +44,7 @@ The primary contribution seems to be the variety of Loss functions associated wi
 
 ## Related Papers
 
-- IK Link
-- Relaxed IK
-- Trac IK
-- IK Flow
+- [[IK Link]]
+- [[Relaxed IK]]
+- [[Trac IK]]
+- [[IK Flow]]

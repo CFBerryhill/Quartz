@@ -5,8 +5,6 @@ Read: Once through, more dedicated note-taking, attempting to understand the bro
 
 - MIT: Probablistic Robotics (Ancient, but good for building my knowledge)
 - [[Semantic Belief Behavior Graph]] bottom
-- Relaxed IK
-- IK Link
 ## Abstracts
 
 - [[Human-Robot Similarity and Willingness to Work with a Robotic Co-worker]]
@@ -27,11 +25,11 @@ Read: Once through, more dedicated note-taking, attempting to understand the bro
 - [[Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System]] 
 - [[A Visualization of Human Physical Risks in Manufacturing Processes Using BPMN]]
 - [[IK Flow]]
-- [[Trac-IK]]
+- [[Trac IK]]
 - [[Stampede]]
+- [[Ranged IK]]
 ## Read
 - [[Hierarchically Accelerated Coverage Path Planning for Redundant Manipulators]]
 - [[Semantic Belief Behavior Graph]]
 - [[Graph‐based subterranean exploration path planning using aerial and legged robots]]
-- [[Ranged IK]]
 - [[Single-query Path Planning Using Sample-efficient Probability Informed Trees]] 

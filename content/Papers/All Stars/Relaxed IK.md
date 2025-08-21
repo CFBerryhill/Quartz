@@ -39,7 +39,5 @@ Goal: achieve smooth feasible motions. Done with weighted-sum non-linear optimiz
 
 
 ## Related Papers
-
-- [ 3 ] reference looks like something that might be good for IK. 
 - [[Stampede]]
-- [[Relaxed-IK]]
+- [[Relaxed IK]]
