@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Concepts/Textbook Notes/Principles of Robot Motion/3. Configuration Space")
+        - '!file.inFolder("Concepts/Textbook Notes/Principles of Robot Motion/3. Configuration Space/attachements")'

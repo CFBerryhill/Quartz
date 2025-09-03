@@ -3,7 +3,8 @@
 		{"id":"c24278d56a59e3ad","type":"file","file":"Concepts/Notes/IK/IK Key Terms.md","x":-800,"y":-580,"width":880,"height":1140},
 		{"id":"6dc5c599f5c55642","type":"file","file":"Concepts/Notes/IK/Pose vs Path Wise IK.md","x":100,"y":-580,"width":440,"height":820},
 		{"id":"d8151e08466c78a7","type":"file","file":"Concepts/Textbook Notes/Intro to Robotics/II. Mechanisms/3.Kinematics/3.2 Inverse Kinematics.md","x":560,"y":-580,"width":460,"height":1480},
-		{"id":"0327579625663f1d","type":"file","file":"Concepts/Textbook Notes/Intro to Robotics/II. Mechanisms/3.Kinematics/RobotArm.png","x":100,"y":280,"width":440,"height":348}
+		{"id":"0327579625663f1d","type":"file","file":"Concepts/Textbook Notes/Intro to Robotics/II. Mechanisms/3.Kinematics/RobotArm.png","x":100,"y":280,"width":440,"height":348},
+		{"id":"cc75afb6dcd43577","x":-800,"y":600,"width":880,"height":760,"type":"file","file":"Concepts/Textbook Notes/Principles of Robot Motion/3. Configuration Space/3.4 The Topology of the Configuration Space.md"}
 	],
 	"edges":[]
 }

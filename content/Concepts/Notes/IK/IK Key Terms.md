@@ -1,5 +1,4 @@
 ### Jacobian Matrix
-
 A matrix that describes how the robot moves with time. Used in Optimization based IK Solvers. 
 ### Degrees of Freedom
 An object in the physical world has up to 6 *cartesian* Degrees of Freedom (DoF). \[x, y, z] and \[pitch, yaw, roll].
@@ -21,6 +20,9 @@ $m$ - the number of [[2.3 Degrees of Freedom|DoF]] in task space
 The Robot's work space. A robot arm's task space might be a hemisphere around its base, whereas a mobile robot's task space might be a room or building or world.
 ### Configuration/Joint Space
 The space of all valid robot configurations. A robot configuration is defined as a vector of joint positions.
+
+see my [[Chapter 3 Summary notes |Textbook notes on Configuration Space]] 
+
 ### Null Space
 
 The set of all possible solutions for some IK task. A redundant robot with 7 DoF which has 6 DoF in task space will have infinite solutions for a given end effector Pose. 
